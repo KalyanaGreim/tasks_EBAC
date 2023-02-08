@@ -1,4 +1,4 @@
-package org.tarefa_classes;
+package org.mod7;
 
 public class ItemVenda {
 
