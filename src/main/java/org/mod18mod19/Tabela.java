@@ -8,7 +8,7 @@ import java.lang.annotation.*;
 public @interface Tabela {
 
     // VALOR DEFAULT
-    String colunaAula() default "Especializaçao Java";
+    String colunaAula() default "Especializacao Java";
 
     String[] colunaNomes();
 
