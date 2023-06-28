@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class Main {
+public class ListNomesFemininos {
     public static void main(String[] args) {
         List<Pessoa> pessoas = lerListaGeneroFeminino();
 
